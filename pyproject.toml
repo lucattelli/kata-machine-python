@@ -1,0 +1,2 @@
+[tool.pyright]
+include = ["kata_machine_python","test"]
